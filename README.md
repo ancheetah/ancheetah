@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub profile! 👋
+
+I'm an aspiring front-end developer with a background in astrophyics and passion for art. Currently learning vue.js and working on freelance websites on the side. Check out what I'm doing on my GitHub Pages [website](https://ancheetah.github.io) :metal:
 
 <!--
 **ancheetah/ancheetah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
