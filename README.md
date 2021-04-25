@@ -1,5 +1,4 @@
 ## Hi, I'm AJ! Welcome to my GitHub 👋🏽
->I like to make things look pretty 💖💕
 
 I'm an aspiring front-end developer with a background in astrophysics and passion for art. Currently enrolled in the [Nucamp Full Stack Coding Bootcamp](https://www.nucamp.co/bootcamp-overview/full-stack-web-mobile-development) and working on freelance websites on the side. Check out what I'm doing on my GitHub Pages [website](https://ancheetah.github.io).
 
