@@ -10,8 +10,6 @@ I'm a front-end developer with a background in astrophysics and passion for art.
 
 **Builder.io Forum**: [forum.builder.io/u/ancheetah](https://forum.builder.io/u/ancheetah/)
 
-**Codepen**: [codepen.io/ancheetah](https://codepen.io/ancheetah)
-
 **freeCodeCamp**: [freecodecamp.org/ancheetah](https://www.freecodecamp.org/ancheetah)
 
 
